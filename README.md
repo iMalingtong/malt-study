@@ -1,2 +1,2 @@
 # malt-study
-malt学习仓库
+Malt学习仓库
