@@ -5,10 +5,19 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/malt-01/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/malt-lab-01/pom.xml" />
       </list>
     </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/elasticsearch/pom.xml" />
+        <option value="$PROJECT_DIR$/malt-01/pom.xml" />
+      </set>
+    </option>
   </component>
-  <component name="ProjectRootManager" version="2" languageLevel="JDK_20" project-jdk-name="17" project-jdk-type="JavaSDK">
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="1.8" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/out" />
   </component>
 </project>

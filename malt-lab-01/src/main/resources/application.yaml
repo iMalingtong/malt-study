@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: malt-lab-01
+
+  profiles:
+    active: local # 指定加载配置文件如：application-local.yml
