@@ -7,6 +7,12 @@
     <version>0.0.1-SNAPSHOT</version>
     <name>malt-lab-01</name>
     <description>malt-lab-01</description>
+    <parent>
+        <groupId>cn.malt.code</groupId>
+        <artifactId>malt-study</artifactId>
+        <version>${revision}</version>
+    </parent>
+
     <properties>
         <java.version>1.8</java.version>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>

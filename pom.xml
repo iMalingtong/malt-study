@@ -11,7 +11,8 @@
 
     <!-- children modules -->
     <modules>
-        <!-- <module>malt-module-system</module> -->
+        <module>malt-lab-01</module>
+        <module>malt-lab-02</module>
     </modules>
 
     <name>${project.artifactId}</name>
